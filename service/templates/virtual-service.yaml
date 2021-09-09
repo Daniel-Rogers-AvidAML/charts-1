@@ -29,7 +29,7 @@ spec:
         - OPTIONS
       allowOrigins:
       - regex: ^http://localhost:[\d]+$
-      - regex: ^https://[\w-.]*ticcaml.com$
+      - regex: ^https://[\w-.]*avidaml.com$
       allowHeaders:
       - authorization
       - content-type
