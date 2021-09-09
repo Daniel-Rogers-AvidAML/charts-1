@@ -10,7 +10,7 @@ From the root directory of a service:
 
 Whenever a commit or pull request to `master` branch (README.md excluded) will trigger a Github action which will automatically package chart and publish it to the `gh-pages` branch.
 
-**Alternatively, you can follow the steps below to mannually publish the chart.**
+**Alternatively, you can follow the steps below to manually publish the chart.**
 
 ## Package chart
 
